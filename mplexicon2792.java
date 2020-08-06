@@ -1,5 +1,3 @@
-// Brandon Buckner cs610 2792 prp
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Arrays;
