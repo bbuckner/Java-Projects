@@ -1,6 +1,8 @@
 # Java-Projects
 
-pgrk2792.java - A java implementation of googles PageRank search algorithm.
+pgrk2792.java - Implementation of Googles PageRank search algorithm.
+hits2792.java - Implementation of Kleinberg's HITS algorithm.
+mplexicon2792.java - Implementation of a hash table.  Constant insert and delete time complexity.
 
 
 
